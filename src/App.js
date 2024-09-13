@@ -99,7 +99,7 @@ const App = ({ projectCardImages = [], filteredProjects = [] }) => {
     }
   }, [projects, filteredProjects, dispatch]);
 
-  // Theme
+  
   const setThemes = React.useCallback(
     (theme) => {
       if (theme) {

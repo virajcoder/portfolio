@@ -62,7 +62,7 @@ export const skillData = [
 ];
 
 
-export const resume = "https://drive.google.com/file/d/1CSeU8KGfpZ6ygY1x2feTVzwFimkXXDld/view?usp=sharing";
+export const resume = "https://drive.google.com/file/d/1EgDVMWdxumt9adRMg3zrtoodsvnG7e3F/view?usp=sharing";
 
 
 export const filteredProjects = ["example-1", "example-2", "example-3"];

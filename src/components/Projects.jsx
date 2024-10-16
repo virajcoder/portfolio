@@ -58,6 +58,7 @@ const Projects = () => {
                     variant={
                       theme === "light" ? "outline-dark" : "outline-light"
                     }
+                    style={{ padding: "0.5rem 4rem", fontSize: "1.8rem" }} 
                   >
                     All <Icon icon="icomoon-free:github" /> Projects
                   </Button>

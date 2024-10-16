@@ -100,6 +100,7 @@ const ContactForm = () => {
               type="submit"
               disabled={isProcessing}
               className="my-4"
+              style={{ padding: "0.5rem 4rem", fontSize: "1.8rem" }}
             >
               Submit{" "}
               {isProcessing && (

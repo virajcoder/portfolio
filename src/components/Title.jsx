@@ -7,7 +7,7 @@ const TitleDiv = styled.div`
   display: inline-block;
   max-width: 90vw;
   word-wrap: break-word;
-  margin: 0.5rem 0;
+  margin: 2.5rem 0;
 
   .underline {
     height: 0.25rem;

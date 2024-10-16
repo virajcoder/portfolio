@@ -42,7 +42,7 @@ const StyledHero = styled.header`
     z-index: -2;
   }
 
-  /* Overlay for contrast */
+  
   &::after {
     content: "";
     position: absolute;
@@ -111,6 +111,9 @@ const Hero = ({ name }) => {
             <h1 className="mb-3 display-3 title">
               {name === null ? "null" : name}
             </h1>
+            <h3 className="mb-3  ">
+              Frontend Developer as a React Framework
+            </h3>
             <div className="d-flex align-items-center justify-content-center">
               <SocialLinks />
             </div>
